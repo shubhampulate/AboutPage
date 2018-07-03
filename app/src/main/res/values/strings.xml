@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AboutPage</string>
+    <string name="about_page_description" translatable="true">Medipta, or Medical Platform Aggregator, is a smart ultra-integrated 360 degree IT platform that addresses discomforts in any healthcare processes by enabling you with information on what you could do next. It provides data on doctors, appointment booking, cost analysis and best available treatments in addition to an exhaustive database on pharmacies, diagnostic labs, hospitals, ambulance services, blood banks nearest to you.</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+</resources>
